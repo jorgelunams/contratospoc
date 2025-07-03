@@ -3,7 +3,27 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)](https://azure.microsoft.com/en-us/products/functions/)
 
-> **Production-ready Azure Function for intelligent contract processing and data extraction**
+> **⚠️ IMPORTANT DISCLAIMER: This is a Development Accelerator - NOT Production Ready**
+
+## 🚨 **Accelerator Notice**
+
+**This solution is provided as a development accelerator and reference implementation only. It is NOT ready for production use.**
+
+### ❌ **Missing Production Requirements:**
+- **Unit Testing**: Comprehensive test coverage and test automation
+- **AI Responsible Practices**: AI fairness, bias testing, and responsible AI implementation
+- **Security Hardening**: Security scanning, vulnerability assessment, and penetration testing
+- **DevOps Integration**: CI/CD pipelines, infrastructure as code, and deployment automation
+- **LLMOps**: Model monitoring, performance tracking, and AI model lifecycle management
+- **Compliance & Governance**: Data privacy, regulatory compliance, and audit trails
+- **Performance Testing**: Load testing, stress testing, and performance optimization
+- **Monitoring & Observability**: Application insights, telemetry, and alerting
+- **Disaster Recovery**: Backup strategies, failover mechanisms, and business continuity
+
+### ⚖️ **Microsoft Disclaimer**
+Microsoft Corporation does not warrant, support, or assume any responsibility for this accelerator. This code is provided "AS IS" without warranty of any kind, either express or implied. Use of this accelerator is at your own risk. Microsoft shall not be liable for any damages arising from the use of this code.
+
+---
 
 ## 🚀 Overview
 
